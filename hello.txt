@@ -12,3 +12,4 @@ hello mfk
 ZSW
 WZH
 LOVE
+TYPE2 BY CLONE
